@@ -6,6 +6,9 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 The challenge was to build a user profile card that includes a photo, name, location, a short bio, and several social media link buttons. The layout adapts to smaller screens, and the styles match the provided design specifications.
 
+### Screenshot
+
+![Screenshot of the Social Links Profile](assets/images/preview.jpg)
 
 ### Links
 
