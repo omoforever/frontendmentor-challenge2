@@ -12,8 +12,8 @@ The challenge was to build a user profile card that includes a photo, name, loca
 
 ### Links
 
-- Live Site: [https://omoforever.github.io/frontendmentor-social-links-profile](https://omoforever.github.io/frontendmentor-social-links-profile)
-- Solution Repo: [https://github.com/omoforever/frontendmentor-social-links-profile](https://github.com/omoforever/frontendmentor-social-links-profile)
+- Live Site: [https://omoforever.github.io/frontendmentor-social-links-profile](https://omoforever.github.io/frontendmentor-challenge2/)
+- Solution Repo: [https://github.com/omoforever/frontendmentor-social-links-profile](https://github.com/omoforever/frontendmentor-challenge2/)
 
 ## Built with
 
